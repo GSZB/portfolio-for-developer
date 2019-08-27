@@ -125,6 +125,7 @@ a, button, input {
 header {
     padding: 55px 0 81px;
     background: url('../img/rocksbackground.png') no-repeat center center;
+    background-size: 100% 100%;
     color: #fff;
 }
 
